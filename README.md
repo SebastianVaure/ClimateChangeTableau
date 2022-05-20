@@ -1,4 +1,4 @@
-# Climate Change in Tableau! ☀️
+# ❄️☀️ Climate Change in Tableau ☀️❄️
 
 Climate Change Analysis
 
