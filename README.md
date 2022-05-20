@@ -1,6 +1,6 @@
-# Climate Change in Tableau!
+# Climate Change in Tableau! ☀️
 
-Climate Change Analysis in Tableau ☀️
+Climate Change Analysis
 
 This is one of my favorites! Analyzing and visualizating data about an important and interesting topic: Climate Change.
 
